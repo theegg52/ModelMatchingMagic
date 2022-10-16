@@ -366,7 +366,7 @@
       "type": "A124",
       "regex": "(?i)(?=.*an-124)",
       "tags": {
-        "manufacturer": "Antanov",
+        "manufacturer": "Antonov",
         "size": 10,
         "engine": "jet"
       }
@@ -411,7 +411,7 @@
       "type": "A306",
       "regex": "(?i)(?=.*airbus)(?=.*A300-600)",
       "tags": {
-        "manufacturer": "airbus",
+        "manufacturer": "Airbus",
         "size": 20,
         "engine": "jet"
       }
