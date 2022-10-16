@@ -1066,7 +1066,7 @@
     },
     {
       "type": "CRJ7",
-      "regex": "(?i)(?=.*bombardier)(?=.*crj-?7(00)?)",
+      "regex": "(?i)(?=.*bombardier)(?=.*crj-?7(00)|5(50)?)",
       "tags": {
         "manufacturer": "Bombardier",
         "size": 20,
