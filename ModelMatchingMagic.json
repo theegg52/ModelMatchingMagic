@@ -354,6 +354,10 @@
     {
       "name": "Lufthansa",
       "codes": [ "DLH", "CLH" ]
+    },
+    {
+      "name": "Norwegian",
+      "codes": ["NAX", "NOZ", "NSW", "NAN", "NSZ" ]
     }
   ],
 
