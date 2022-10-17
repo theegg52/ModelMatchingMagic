@@ -1,4 +1,4 @@
-﻿{
+{
   "model_overrides": [
     {
       "model": "Airbus A320 Neo Asobo",
@@ -367,7 +367,7 @@
       "regex": "(?i)(?=.*an-124)",
       "tags": {
         "manufacturer": "Antonov",
-        "size": 20,
+        "size": 10,
         "engine": "jet"
       }
     },
@@ -565,7 +565,7 @@
       "regex": "(?i)(?=.*airbus)(?=.*a380-800)",
       "tags": {
         "manufacturer": "Airbus",
-        "size": 30,
+        "size": 20,
         "engine": "jet"
       }
     },
@@ -799,7 +799,7 @@
       "regex": "(?i)(?=.*boeing)(?=.*757-2)",
       "tags": {
         "manufacturer": "Boeing",
-        "size": 10,
+        "size": 20,
         "engine": "jet"
       }
     },
@@ -808,7 +808,7 @@
       "regex": "(?i)(?=.*boeing)(?=.*757-3)",
       "tags": {
         "manufacturer": "Boeing",
-        "size": 10,
+        "size": 20,
         "engine": "jet"
       }
     },
@@ -943,7 +943,7 @@
       "regex": "(?i)(?=.*beechcraft)(?=.*C99)",
       "tags": {
         "manufacturer": "Beechcraft",
-        "size": 0,
+        "size": 10,
         "engine": "turboprop/turboshaft"
       }
     },
@@ -952,7 +952,7 @@
       "regex": "(?i)(?=.*King Air C90|King Air E90?)",
       "tags": {
         "manufacturer": "Beechcraft",
-        "size": 0,
+        "size": 10,
         "engine": "turboprop/turboshaft"
       }
     },
@@ -961,7 +961,7 @@
       "regex": "(?i)(?=.*britten-norman)(?=.*bn-2)",
       "tags": {
         "manufacturer": "Britten-Norman",
-        "size": 0,
+        "size": 10,
         "engine": "piston"
       }
     },
@@ -970,7 +970,7 @@
       "regex": "(?i)(?=.*cessna)(?=.*208)",
       "tags": {
         "manufacturer": "Cessna",
-        "size": 0,
+        "size": 20,
         "engine": "turboprop/turboshaft"
       }
     },
@@ -979,7 +979,7 @@
       "regex": "(?i)(?=.*cj3)",
       "tags": {
         "manufacturer": "Cessna",
-        "size": 0,
+        "size": 20,
         "engine": "jet"
       }
     },
@@ -988,7 +988,7 @@
       "regex": "(?i)(?=.*cj4)",
       "tags": {
         "manufacturer": "Cessna",
-        "size": 10,
+        "size": 20,
         "engine": "jet"
       }
     },
@@ -997,7 +997,7 @@
       "regex": "(?i)(?=.*cessna)(?=.*402C)",
       "tags": {
         "manufacturer": "Cessna",
-        "size": 0,
+        "size": 10,
         "engine": "piston"
       }
     },
@@ -1006,7 +1006,7 @@
       "regex": "(?i)(?=.*cessna)(?=.*414A)",
       "tags": {
         "manufacturer": "Cessna",
-        "size": 0,
+        "size": 10,
         "engine": "piston"
       }
     },
@@ -1069,8 +1069,8 @@
       "regex": "(?i)(?=.*bombardier)(?=.*crj-?7(00)|5(50)?)",
       "tags": {
         "manufacturer": "Bombardier",
-        "size": 10,
-        "engine": "jet"
+        "size": 20,
+        "engine": "regional jet"
       }
     },
     {
@@ -1078,8 +1078,8 @@
       "regex": "(?i)(?=.*bombardier)(?=.*crj-?9(00)?)",
       "tags": {
         "manufacturer": "Bombardier",
-        "size": 10,
-        "engine": "jet"
+        "size": 20,
+        "engine": "regional jet"
       }
     },
     {
@@ -1087,8 +1087,8 @@
       "regex": "(?i)(?=.*bombardier)(?=.*crj-?1000)",
       "tags": {
         "manufacturer": "Bombardier",
-        "size": 10,
-        "engine": "jet"
+        "size": 20,
+        "engine": "regional jet"
       }
     },
     {
@@ -1141,7 +1141,7 @@
       "regex": "(?i)(?=.*DHC 6)",
       "tags": {
         "manufacturer": "De Havilland",
-        "size": 0,
+        "size": 10,
         "engine": "turboprop/turboshaft"
       }
     },
@@ -1150,7 +1150,7 @@
       "regex": "(?i)(?=.*embraer)(?=.*EMB-120)",
       "tags": {
         "manufacturer": "Embraer",
-        "size": 10,
+        "size": 20,
         "engine": "jet"
       }
     },
@@ -1213,7 +1213,7 @@
       "regex": "(?i)(?=.*caravan)(?=.*F406)",
       "tags": {
         "manufacturer": "Cessna",
-        "size": 0,
+        "size": 10,
         "engine": "turboprop/turboshaft"
       }
     },
@@ -1375,7 +1375,7 @@
       "regex": "(?i)(?=.*mcdonnell douglas)(?=.*md-88)",
       "tags": {
         "manufacturer": "Mcdonnell Douglas",
-        "size": 10,
+        "size": 20,
         "engine": "jet"
       }
     },
@@ -1384,7 +1384,7 @@
       "regex": "(?i)(?=.*piper)(?=.*PA-31?)",
       "tags": {
         "manufacturer": "Piper",
-        "size": 0,
+        "size": 10,
         "engine": "piston"
       }
     },
@@ -1393,7 +1393,7 @@
       "regex": "(?i)(?=.*pilatus)(?=.*pc-12)",
       "tags": {
         "manufacturer": "Pilatus",
-        "size":10,
+        "size": 10,
         "engine": "turboprop/turboshaft"
       }
     },
@@ -1402,7 +1402,7 @@
       "regex": "(?i)(?=.*premier)",
       "tags": {
         "manufacturer": "Beechcraft",
-        "size": 0,
+        "size": 10,
         "engine": "jet"
       }
     },
