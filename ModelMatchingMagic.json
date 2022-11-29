@@ -1434,6 +1434,15 @@
       }
     },
     {
+      "type": "SR22",
+      "regex": "(?i)(?=.*Cirrus)(?=.*SR22)",
+      "tags": {
+        "manufacturer": "Cirrus",
+        "size": 10,
+        "engine": "piston"
+      }
+    },
+    {
       "type": "SU95",
       "regex": "(?i)(?=.*Superjet)(?=.*100-95)",
       "tags": {
