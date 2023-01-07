@@ -1254,6 +1254,15 @@
       }
     },
     {
+      "type": "GLEX",
+      "regex": "(?i)(?=.*Bombardier)(?=.*Global 6000|Express)",
+      "tags": {
+        "manufacturer": "Bombardier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
       "type": "GLF3",
       "regex": "(?i)(?=.*gulfstream)(?=.*III)",
       "tags": {
