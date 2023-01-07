@@ -922,7 +922,7 @@
     },
     {
       "type": "BE20",
-      "regex": "(?i)(?=.*King Air 200)",
+      "regex": "(?i)(?=.*King Air 200|250)",
       "tags": {
         "manufacturer": "Beechcraft",
         "size": 10,
