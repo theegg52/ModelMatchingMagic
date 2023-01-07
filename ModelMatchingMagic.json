@@ -1477,6 +1477,15 @@
         "size": 10,
         "engine": "jet"
       }
-    }
+    },
+    {
+      "type": "SW4",
+      "regex": "(?i)(?=.*Swearingen)(?=.*Metro II|III|23)",
+      "tags": {
+        "manufacturer": "Cirrus",
+        "size": 10,
+        "engine": "piston"
+      }
+    },
   ]
 }
