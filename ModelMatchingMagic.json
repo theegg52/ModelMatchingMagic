@@ -1482,7 +1482,7 @@
       "type": "SW4",
       "regex": "(?i)(?=.*Swearingen)(?=.*Metro II|III|23)",
       "tags": {
-        "manufacturer": "Cirrus",
+        "manufacturer": "Fairchild",
         "size": 10,
         "engine": "piston"
       }
