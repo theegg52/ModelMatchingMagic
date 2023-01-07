@@ -1254,6 +1254,15 @@
       }
     },
     {
+      "type": "FA8X",
+      "regex": "(?i)(?=.*Falcon)(?=.*8X)",
+      "tags": {
+        "manufacturer": "Dassault",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
       "type": "GLEX",
       "regex": "(?i)(?=.*Bombardier)(?=.*Global 6000|Express)",
       "tags": {
