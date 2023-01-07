@@ -921,6 +921,15 @@
       }
     },
     {
+      "type": "BE20",
+      "regex": "(?i)(?=.*King Air 200)",
+      "tags": {
+        "manufacturer": "Beechcraft",
+        "size": 10,
+        "engine": "turboprop/turboshaft"
+      }
+    },
+    {
       "type": "BE40",
       "regex": "(?i)(?=.*beechjet 400|hawker 400?)",
       "tags": {
