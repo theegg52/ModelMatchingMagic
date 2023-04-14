@@ -1309,7 +1309,7 @@
     },
     {
       "type": "H25B",
-      "regex": "(?i)(?=.*HAWKER)(?=.*750|800|850|900)",
+      "regex": "(?i)(?=.*HAWKER)(?=.*700|750|800|850|900)",
       "tags": {
         "manufacturer": "HAWKER",
         "size": 10,
