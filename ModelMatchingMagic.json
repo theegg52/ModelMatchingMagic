@@ -1299,6 +1299,15 @@
       }
     },
     {
+      "type": "H25B",
+      "regex": "(?i)(?=.*HAWKER)(?=.*750|800|850|900)",
+      "tags": {
+        "manufacturer": "HAWKER",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
       "type": "J328",
       "regex": "(?i)(?=.*dornier)(?=.*328)",
       "tags": {
