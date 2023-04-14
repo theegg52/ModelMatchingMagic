@@ -1020,6 +1020,15 @@
       }
     },
     {
+      "type": "C56X",
+      "regex": "(?i)(?=.*560XL)",
+      "tags": {
+        "manufacturer": "Cessna",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
       "type": "CL30",
       "regex": "(?i)(?=.*bombardier)(?=.*Challenger 300)",
       "tags": {
