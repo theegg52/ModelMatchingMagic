@@ -795,6 +795,15 @@
       }
     },
     {
+      "type": "B74S",
+      "regex": "(?i)(?=.*boeing)(?=.747SP)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
       "type": "B748",
       "regex": "(?i)(?=.*boeing)(?=.*747-8)",
       "tags": {
@@ -1182,8 +1191,53 @@
       }
     },
     {
+      "type": "E45X",
+      "regex": "(?i)(?=.*embraer)(?=.*ERJ-145XR)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "E55P",
+      "regex": "(?i)(?=.*embraer)(?=.*Phenom 300)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "E75L",
+      "regex": "(?i)(?=.*embraer)(?=.*EMB-175)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
       "type": "E120",
       "regex": "(?i)(?=.*embraer)(?=.*EMB-120)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "E135",
+      "regex": "(?i)(?=.*embraer)(?=.*ERJ-?135|140)?)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "E145",
+      "regex": "(?i)(?=.*embraer)(?=.*ERJ-145)",
       "tags": {
         "manufacturer": "Embraer",
         "size": 20,
@@ -1211,24 +1265,6 @@
     {
       "type": "E195",
       "regex": "(?i)(?=.*embraer)(?=.*EMB-195)",
-      "tags": {
-        "manufacturer": "Embraer",
-        "size": 10,
-        "engine": "jet"
-      }
-    },
-    {
-      "type": "E55P",
-      "regex": "(?i)(?=.*embraer)(?=.*Phenom 300)",
-      "tags": {
-        "manufacturer": "Embraer",
-        "size": 10,
-        "engine": "jet"
-      }
-    },
-    {
-      "type": "E75L",
-      "regex": "(?i)(?=.*embraer)(?=.*EMB-175)",
       "tags": {
         "manufacturer": "Embraer",
         "size": 10,
@@ -1492,6 +1528,15 @@
       "regex": "(?i)(?=.*saab)(?=.*340)",
       "tags": {
         "manufacturer": "Saab",
+        "size": 10,
+        "engine": "turboprop/turboshaft"
+      }
+    },
+    {
+      "type": "SH36",
+      "regex": "(?i)(?=.*Shorts)(?=.3-60)",
+      "tags": {
+        "manufacturer": "Short",
         "size": 10,
         "engine": "turboprop/turboshaft"
       }
