@@ -588,6 +588,15 @@
       }
     },
     {
+      "type": "AT44",
+      "regex": "(?i)(?=.*atr)(?=.*42-400)",
+      "tags": {
+        "manufacturer": "ATR",
+        "size": 10,
+        "engine": "turboprop/turboshaft"
+      }
+    },
+    {
       "type": "AT45",
       "regex": "(?i)(?=.*atr)(?=.*42-500)",
       "tags": {
@@ -1161,6 +1170,15 @@
         "manufacturer": "De Havilland",
         "size": 10,
         "engine": "turboprop/turboshaft"
+      }
+    },
+    {
+      "type": "E35L",
+      "regex": "(?i)(?=.*embraer)(?=.Legacy 6)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 20,
+        "engine": "jet"
       }
     },
     {
