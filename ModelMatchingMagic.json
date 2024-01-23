@@ -579,6 +579,15 @@
       }
     },
     {
+      "type": "AR27",
+      "regex": "(?i)(?=.*ARJ-21-700)",
+      "tags": {
+        "manufacturer": "Comac",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
       "type": "AT43",
       "regex": "(?i)(?=.*atr)(?=.*42-300)",
       "tags": {
@@ -993,6 +1002,15 @@
       }
     },
     {
+      "type": "C130",
+      "regex": "(?i)(?=.*Lockheed)(?=.*L-100-30)",
+      "tags": {
+        "manufacturer": "Lockheed",
+        "size": 20,
+        "engine": "turboprop/turboshaft"
+      }
+    },
+    {
       "type": "C208",
       "regex": "(?i)(?=.*cessna)(?=.*208)",
       "tags": {
@@ -1375,6 +1393,15 @@
       "regex": "(?i)(?=.*dornier)(?=.*328)",
       "tags": {
         "manufacturer": "Dornier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "JS41",
+      "regex": "(?i)(?=.*BAe)(?=.*Jetstream 41)",
+      "tags": {
+        "manufacturer": "British Aerospace",
         "size": 10,
         "engine": "jet"
       }
