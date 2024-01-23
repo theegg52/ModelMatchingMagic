@@ -1228,7 +1228,7 @@
     },
     {
       "type": "E135",
-      "regex": "(?i)(?=.*embraer)(?=.*ERJ-?135|140)?)",
+      "regex": "(?i)(?=.*embraer)(?=.*ERJ-?135|140?)",
       "tags": {
         "manufacturer": "Embraer",
         "size": 20,
