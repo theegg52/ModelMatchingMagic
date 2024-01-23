@@ -1344,8 +1344,17 @@
       }
     },
     {
+      "type": "GL5T",
+      "regex": "(?i)(?=.*Bombardier)(?=.*Global 5000)",
+      "tags": {
+        "manufacturer": "Bombardier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
       "type": "GLEX",
-      "regex": "(?i)(?=.*Bombardier)(?=.*Global 6000|Express)",
+      "regex": "(?i)(?=.*Bombardier)(?=.*Global 6000|6500|Express)",
       "tags": {
         "manufacturer": "Bombardier",
         "size": 10,
