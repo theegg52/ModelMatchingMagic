@@ -742,7 +742,7 @@
     },
     {
       "type": "B737",
-      "regex": "(?i)(?=.*boeing)(?=.*737-700|BBJ1)",
+      "regex": "(?i)(?=.*boeing)(?=.*737-700|BBJ1|C-40)",
       "tags": {
         "manufacturer": "Boeing",
         "size": 10,
@@ -796,7 +796,7 @@
     },
     {
       "type": "B752",
-      "regex": "(?i)(?=.*boeing)(?=.*757-2)",
+      "regex": "(?i)(?=.*boeing)(?=.*757-2|C-32)",
       "tags": {
         "manufacturer": "Boeing",
         "size": 20,
