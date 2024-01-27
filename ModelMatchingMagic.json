@@ -940,7 +940,7 @@
     },
     {
       "type": "BCS3",
-      "regex": "(?i)(?=.*airbus)(?=.*A220-300)|(?i)BCS2",
+      "regex": "(?i)(?=.*airbus)(?=.*A220-300)|(?i)BCS3",
       "tags": {
         "manufacturer": "Airbus",
         "size": 10,
