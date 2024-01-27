@@ -1498,7 +1498,7 @@
     },
     {
       "type": "MD82",
-      "regex": "(?i)(?=.*mcdonnell douglas)(?=.*md-82|(?i)MD82",
+      "regex": "(?i)(?=.*mcdonnell douglas)(?=.*md-82)|(?i)MD82",
       "tags": {
         "manufacturer": "Mcdonnell Douglas",
         "size": 10,
